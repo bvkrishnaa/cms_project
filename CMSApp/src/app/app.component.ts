@@ -10,7 +10,7 @@ export class AppComponent {
   Login:CMSGeneralInfo.ICMSGeneralInfo;
   constructor(){
    this.Login={
-     Username:'jjj',
+     Username:'krishna',
      Password:'14522'
    }
   }
